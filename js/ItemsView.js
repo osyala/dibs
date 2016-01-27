@@ -30,6 +30,7 @@ var Dib = React.createClass({
 
 
 
+
 	_claimItem: function(){
 			var self = this
 			var claimeeName = this.refs.claimee.getDOMNode().innerHTML
